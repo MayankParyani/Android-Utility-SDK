@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WdUtilsSDK</string>
+    <string name="connected">Network Is Connected</string>
+    <string name="disconnected">Network Is Disconnected</string>
+    <string name="please_check_your_internet_connectivity">You are Offline</string>
+    <string name="retry">retry</string>
+    <string name="sample_secret_key">699261585FAA8AA8</string>
+    <string name="dialog_before_run_title">title</string>
+    <string name="dialog_before_run_message">message</string>
+    <string name="dialog_positive_button">ok</string>
+</resources>

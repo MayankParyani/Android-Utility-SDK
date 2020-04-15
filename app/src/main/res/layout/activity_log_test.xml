@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/loggreetings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="30dp"
+        android:text="Please select a log Type and check your logcat !"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/whatsapp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/loggreetings"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:text="Logd"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/facebook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/whatsapp"
+        android:layout_centerHorizontal="true"
+        android:text="LogE"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/twitter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/facebook"
+        android:layout_centerHorizontal="true"
+        android:text="LogV"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/enableLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/twitter"
+        android:layout_centerHorizontal="true"
+        android:text="EnableLogs"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/disableLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/enableLog"
+        android:layout_centerHorizontal="true"
+        android:text="DisableLogs"
+        android:visibility="visible" />
+
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="ResourceName">UtilsSDK</string>
+    <string name="wdsdk_message_not_null">Message can not be null</string>
+    <string name="wdsdk_please_try_again_later">Please check your internet connectivity.</string>
+    <string name="wdsdk_twitter_sharing_url">https://twitter.com/intent/tweet?text=\"</string>
+    <string name="wdsdk_whatsapp_playstore_url">https://play.google.com/store/apps/details?id=com.whatsapp</string>
+    <string name="wdsdk_facebook_share_url">https://www.facebook.com/sharer/sharer.php?u=</string>
+    <string name="wdsdk_facebook_package_name">com.facebook.katana</string>
+    <string name="wdsdk_whatsapp_package_name">com.whatsapp</string>
+</resources>
