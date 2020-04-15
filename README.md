@@ -1,2 +1,2 @@
 # Android Utility SDK
-[![](https://jitpack.io/v/MayankParyani/UtilsSdk.svg)](https://jitpack.io/#MayankParyani/UtilsSdk)
+[![](https://jitpack.io/v/MayankParyani/Android-Utility-SDK.svg)](https://jitpack.io/#MayankParyani/Android-Utility-SDK)
