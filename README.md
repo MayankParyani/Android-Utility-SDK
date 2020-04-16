@@ -14,7 +14,7 @@ allprojects {
 	}
 
 dependencies {
-  implementation 'com.github.MayankParyani:Android-Utility-SDK:0.1'
+  implementation 'com.github.MayankParyani:Android-Utility-SDK:latest-release'
 }
 ```
 # Author
