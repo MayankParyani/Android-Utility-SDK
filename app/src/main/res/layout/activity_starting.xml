@@ -36,7 +36,6 @@
             android:id="@+id/receiverTest"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_below="@id/connectivityTest"
             android:layout_centerHorizontal="true"
             android:text="Network Receiver Test"
